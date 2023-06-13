@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\Users\NCS\Documents\GitHub\Nirav_Tops\Assignment\Module 4\WebHttpHtml6\res\localhost_1.eve

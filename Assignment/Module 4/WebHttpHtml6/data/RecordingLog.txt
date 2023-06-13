@@ -1,0 +1,216 @@
+[API Trapper      ( de0: 190)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (242c: fc8)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (2254:2100)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2254: 3c0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2254: 3c0)] Load Network Traffic Analyzers:
+[Network Analyzer (2254: 3c0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2254: 3c0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2254: 3c0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2254: 3c0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2254: 3c0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2254: 3c0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2254: 3c0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2254: 3c0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2254:2030)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.41.3:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.205:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[API Trapper      (2634: 6fc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Web Request      (2254:2030)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (2254:2030)]   (Sid:  3) Client -> Server @ : 723 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid:  3) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254: c10)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254:165c)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:165c)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.41.3:443   (Service=)  (Sid=  4)  PROXIED!
+[Net An. Error    (2254: c10)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2030)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (2254:2030)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.205:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:1198)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 172.253.115.188:5228   (Service=)  (Sid=  6)  PROXIED!
+[Net An. Error    (2254:1198)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2030)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.41.3:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:1fec)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:1fec)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:172c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254:2030)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (2254: 7a4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.205:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.250.80.67:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:16a4)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 216.239.32.29:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Web Request      (2254:2030)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (2254:2030)]   (Sid: 11) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (2254:2030)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2254:2030)]   (Sid: 12) Client -> Server @ : 755 bytes (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2030)]   (Sid: 12) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 11) Server -> Client : 2040 bytes  (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 216.239.32.29:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (2254:2030)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (2254:2030)]   (Sid: 13) Client -> Server @ : 319 bytes (Service=HTTP)
+[Web Request      (2254:2030)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (2254:2030)]   (Sid: 11) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 13) Server -> Client : 223 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (2254:2030)]   (Sid: 13) Client -> Server @ : 318 bytes (Service=HTTP)
+[Web Request      (2254:2030)] "GET /favicon.ico"   
+[Network Analyzer (2254:2030)]   (Sid: 12) Client -> Server @ : 629 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 12) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 11) Server -> Client : 2060 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 13) Server -> Client : 199 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /repo/certs/gts1c3.der"   
+[Network Analyzer (2254:2030)]   (Sid: 11) Client -> Server @ : 236 bytes (Service=HTTP)
+[Net An. Error    (2254:16a4)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2254:172c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid: 11) Server -> Client : 2040 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /repo/certs/gtsr1.der"   
+[Network Analyzer (2254:2030)]   (Sid: 11) Client -> Server @ : 235 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 11) Server -> Client : 2060 bytes  (Service=HTTP)
+[Net An. Error    (2254: 7a4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:1ba0)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:1ba0)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.205:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2254:14a0)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:14a0)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2248)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 16)  PROXIED!
+[Net An. Error    (2254:2248)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:1958)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:1958)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (2254:2030)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (2254:1754)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:1754)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2030)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.205:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Web Request      (2254:2030)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (2254:2030)]   (Sid: 18) Client -> Server @ : 1007 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      (2254:2030)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (2254:2030)]   (Sid: 18) Client -> Server @ : 880 bytes (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (2254:2030)]   (Sid: 20) Client -> Server @ : 875 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 20) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 20) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2070)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 21)  PROXIED!
+[Net An. Error    (2254:2070)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2178)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:2178)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (2254:2030)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (2254:2030)]   (Sid: 20) Client -> Server @ : 894 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 20) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 20) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (2254:2030)]   (Sid: 20) Client -> Server @ : 897 bytes (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (2254:2030)]   (Sid: 18) Client -> Server @ : 898 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 20) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 20) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (2254:2034)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:2034)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2254:2030)]   (Sid: 20) Connection Terminated (by Server)
+[Web Request      (2254:2030)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (2254:2030)]   (Sid: 18) Client -> Server @ : 900 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (2254:2030)]   (Sid: 18) Client -> Server @ : 902 bytes (Service=HTTP)
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (2254:2030)]   (Sid: 24) Client -> Server @ : 885 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 1150 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254:15a8)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:15a8)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254:2030)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.205:443   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (2254:2030)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (2254:2030)]   (Sid: 24) Client -> Server @ : 898 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 818 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (2254:2030)]   (Sid: 24) Client -> Server @ : 893 bytes (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (2254:2030)]   (Sid: 18) Client -> Server @ : 888 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254: 6f4)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254: 6f4)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254: 3c0)] Address lookup for DESKTOP-UDIS6JS = 192.168.1.8
+[Network Analyzer (2254: 3c0)] Request Connection: Remote Server @ 142.251.40.170:443   (Service=)  (Sid= 26)  PROXIED!
+[Web Request      (2254:2030)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (2254:2030)]   (Sid: 24) Client -> Server @ : 892 bytes (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (2254:2030)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (2254:2030)]   (Sid: 24) Client -> Server @ : 772 bytes (Service=HTTP)
+[Network Analyzer (2254: 46c)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254: 46c)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (2254:2030)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (2254:1e80)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Net An. Error    (2254:1e80)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2254:2030)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (2254:2030)]   (Sid: 24) Connection Terminated (by Client)
