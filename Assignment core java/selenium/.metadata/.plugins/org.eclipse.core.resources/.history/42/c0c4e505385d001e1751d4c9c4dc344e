@@ -1,0 +1,56 @@
+package Opps;
+
+class Calc 
+{
+	public void print()
+	{
+		System.out.println("Running Print Method");
+	}
+	
+	public void square(int a )
+	{
+		int sq = a*a;
+		System.out.println("Square is :"+sq);
+	}
+	
+	public void add(int a,int b)
+	{
+		int result = a+b;
+		System.out.println("Addition is :"+result);
+	}
+	
+	public int cube(int a)
+	{
+		int cube = a*a*a;
+		return cube;
+	}
+	
+	public String getname()
+	{
+		String name = "Nirav";
+		return name;
+	}
+	
+	public void addarray(int a[])
+	{
+		int sum = 0;
+		for(int i=0;i<a.length;i++) {
+			sum = sum+a[i];
+		}
+		System.out.println(sum);
+		
+	}
+	
+}
+
+
+
+public class O004_methodmainpulation {
+public static void main(String[] args) {
+	
+	Calc c = new Calc();
+	c.print();
+	c.square(10);
+	c.cube(20);
+}
+}
