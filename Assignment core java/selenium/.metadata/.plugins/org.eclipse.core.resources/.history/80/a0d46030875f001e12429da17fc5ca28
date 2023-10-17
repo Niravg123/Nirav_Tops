@@ -1,8 +1,0 @@
-package Opps;
-
-public class O007_methodoverriding {
-public static void main(String[] args) {
-	
-	
-}
-}
