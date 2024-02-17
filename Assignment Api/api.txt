@@ -1,0 +1,32 @@
+E-commerce api testing
+1) User module
+A) Ragistration
+api-https://restapilive.onrender.com/userreg
+error 1) when we enter user ragistration api in post bar without any parameter pass and click the send button the status msg show ragistration successfully done
+error 2) when we enter all parameter with blank again status show ragistration sucessfully done
+error 3) when we enter email id without ampersat again status show ragistration sucessfully done
+error 4) when we enter phno with < 10 number again status show ragistration sucessfully done
+error 5) when we enter phno with 9 number with O[alphabet] proper error msg not show
+
+B) Login
+api-https://restapilive.onrender.com/userlogin
+error 1) when we enter user login api in post bar and click send key no proper msg show
+error 2) when we enter correct email and wrong pass not display the proper msg show
+error 3) when we enter wrong email and correct pass not display the proper msg show
+tokken-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWQwNGQ5NjM2YmY2MDEzNjVhZTQzMzMiLCJpYXQiOjE3MDgxNTM2OTl9.MwmRJCauui8Pw-FyDD69poU-pxldDSMef4EkqOUdXYo
+
+2)Admin module
+A)admin login
+api-https://restapilive.onrender.com/alogin
+tokken-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2ZkYjRmZGNiN2MxNDVhOWNiZjZmZWYiLCJpYXQiOjE3MDgxNTQ0MTV9.sjpY3mlFV2lCudWj_GT5iPRr6sOQl8mKXnU4Dgki6oE
+
+B)Product Category
+add category-> "catname" : "stockmarket",
+    	       "catname" : "Currencymarket",
+               "catname" : "commoditymarket"
+View category-> sucessfully display category we have to add category
+delete category-> id=65d064213542342c140725f6
+error 1) when we click send key without parameter pass in delete category not to display proper msg.
+
+
+    
